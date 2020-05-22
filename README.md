@@ -6,7 +6,7 @@ A aplicação permite que o usuário manipule um lista de tarefas. Sendo possív
 
 ## Foco prático
 
-- Manipulação de arrys
+- Manipulação de arrays
 - Armazenamento de dados no LocalStorage
 
 ## GIF Ilustrativo
