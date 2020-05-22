@@ -8,3 +8,7 @@ A aplicação permite que o usuário manipule um lista de tarefas. Sendo possív
 
 - Manipulação de arrys
 - Armazenamento de dados no LocalStorage
+
+## GIF Ilustrativo
+
+![Lista-tarefas](https://user-images.githubusercontent.com/40447101/82715432-7b28ec00-9c69-11ea-8a3f-20afaa64c1c5.gif)
